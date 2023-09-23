@@ -1,0 +1,13 @@
+.url-input {
+    margin-bottom:20px;
+}
+.form-control {
+    margin: 20px 0px;
+    padding:10px;
+    width: 700px;
+}
+.container {
+    max-width: 500px;
+    margin-left: 350px;
+    margin-top:100px;
+}
